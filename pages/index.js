@@ -5,8 +5,6 @@ import { Calc } from 'calc-js'
 
 export default function Index() {
 
-  // Linha de teste
-
   const [ n1, setN1 ] = useState('')
   const [ n2, setN2 ] = useState('')
   const [ method, setMethod ] = useState('')
